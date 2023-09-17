@@ -1,2 +1,2 @@
 # AI-Round-
-python/Data structure / AI models 
+python/machine learning/deep learning / AI models
